@@ -42,7 +42,7 @@ Assuming you have both Elixir and Mix properly installed...
 The project includes a React-based frontend.
 
 1) `cd app/`
-2) Copy `app/.env.example` -> `app/.env` and update the file with your test user credentials
-3) Move into the `app/` directory: `cd app/`
-4) Run `npm install` or `yarn install` if you have yarn (yarn is better)
-5) Run `npm start` or 'yarn start'
+1) Copy `app/.env.example` -> `app/.env` and update the file with your test user credentials
+1) Move into the `app/` directory: `cd app/`
+1) Run `npm install` or `yarn install` if you have yarn (yarn is better)
+1) Run `npm start` or `yarn start`
